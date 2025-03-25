@@ -1,0 +1,10 @@
+C:\Users\Elif\source\repos\dokunma\pizza\bin\Debug\pizza.exe.config
+C:\Users\Elif\source\repos\dokunma\pizza\bin\Debug\pizza.exe
+C:\Users\Elif\source\repos\dokunma\pizza\bin\Debug\pizza.pdb
+C:\Users\Elif\source\repos\dokunma\pizza\obj\Debug\pizza.csproj.AssemblyReference.cache
+C:\Users\Elif\source\repos\dokunma\pizza\obj\Debug\pizza.Properties.Resources.resources
+C:\Users\Elif\source\repos\dokunma\pizza\obj\Debug\pizza.csproj.GenerateResource.cache
+C:\Users\Elif\source\repos\dokunma\pizza\obj\Debug\pizza.csproj.CoreCompileInputs.cache
+C:\Users\Elif\source\repos\dokunma\pizza\obj\Debug\pizza.exe
+C:\Users\Elif\source\repos\dokunma\pizza\obj\Debug\pizza.pdb
+C:\Users\Elif\source\repos\dokunma\pizza\obj\Debug\pizza.PİZZA.resources
