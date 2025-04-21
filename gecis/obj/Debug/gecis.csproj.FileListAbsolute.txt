@@ -1,0 +1,10 @@
+C:\Users\Elif\source\repos\dokunma\gecis\bin\Debug\gecis.exe.config
+C:\Users\Elif\source\repos\dokunma\gecis\bin\Debug\gecis.exe
+C:\Users\Elif\source\repos\dokunma\gecis\bin\Debug\gecis.pdb
+C:\Users\Elif\source\repos\dokunma\gecis\obj\Debug\gecis.csproj.AssemblyReference.cache
+C:\Users\Elif\source\repos\dokunma\gecis\obj\Debug\gecis.Form1.resources
+C:\Users\Elif\source\repos\dokunma\gecis\obj\Debug\gecis.Properties.Resources.resources
+C:\Users\Elif\source\repos\dokunma\gecis\obj\Debug\gecis.csproj.GenerateResource.cache
+C:\Users\Elif\source\repos\dokunma\gecis\obj\Debug\gecis.csproj.CoreCompileInputs.cache
+C:\Users\Elif\source\repos\dokunma\gecis\obj\Debug\gecis.exe
+C:\Users\Elif\source\repos\dokunma\gecis\obj\Debug\gecis.pdb
